@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Applied Computing year 3**
 
-- 🤝 I’m looking for help with **Finding placement**
-
+- 🤝 I’m looking for help with **N/A**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/EricDeBuitleir](https://github.com/EricDeBuitleir)
 
 - 📫 How to reach me **ericbutler125@outlook.com**
