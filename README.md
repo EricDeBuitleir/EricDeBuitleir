@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Butler</h1>
-<h3 align="center">3rd Year Applied Computing student in SETU - Waterford. Automotive and Automatic Systems</h3>
+<h3 align="center">4th Year Applied Computing student in SETU - Waterford. Automotive and Automatic Systems</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericdebuitleir" alt="ericdebuitleir" /></a> </p>
 
