@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric Butler</h1>
-<h3 align="center"> Applied Computing graduate in SETU - Waterford. Automotive and Automatic Systems</h3>
+<h3 align="center"> Applied Computing graduate from SETU - Waterford. Automotive and Automatic Systems</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericdebuitleir" alt="ericdebuitleir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Applied Computing year 4**
+- 🌱 I’m currently learning **Graduate Software Engineer at JLR**
 
 - 🤝 I’m looking for help with **N/A**
  
